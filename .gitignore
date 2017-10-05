@@ -1,0 +1,6 @@
+/.idea/
+/out/
+*.txt
+*.crt
+*.p12
+server
